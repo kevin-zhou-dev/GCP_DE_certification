@@ -1,4 +1,5 @@
-# create vm in compute engine and retrieve lab code
+# Lab : create vm in compute engine and retrieve lab code
+
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 
 ## create gcs bucket
